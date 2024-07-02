@@ -2,7 +2,7 @@
 
 Dart is a statically typed language, meaning every variable must be declared with a type. Below are the primary data types in Dart, along with examples for each.
 
-![variable_declaration](../assets/variable_declaration.png)
+![variable_declaration](assets/variable_declaration.png)
 
 ## 1. Numbers
 
@@ -144,15 +144,15 @@ print(variable); // Output: true
 
 ### 1
 
-![dynamic example 1](../assets/dynamic_example_1.png)
+![dynamic example 1](assets/dynamic_example_1.png)
 
 ### 2
 
-![dynamic example 2](../assets/dynamic_example_2.png)
+![dynamic example 2](assets/dynamic_example_2.png)
 
 ### 3
 
-![dynamic example 3](../assets/dynamic_example_3.png)
+![dynamic example 3](assets/dynamic_example_3.png)
 
 </details>
 
@@ -173,7 +173,7 @@ name = 20; // Error: A value of type 'int' can't be assigned to a variable of ty
 
 <summary>Var examples with images</summary>
 
-![example for var](../assets/var_example.png)
+![example for var](assets/var_example.png)
 
 </details>
 
@@ -190,11 +190,11 @@ name = 20; // Error: A value of type 'int' can't be assigned to a variable of ty
 > msg = "Hello world again.";
 > ```
 >
-> ![example for var](../assets/dynamic_vs_var.png)
+> ![example for var](assets/dynamic_vs_var.png)
 
 ## 9. Difference between final, const and var keywords
 
-![example for var](../assets/final_vs_const_vs_var.png)
+![example for var](assets/final_vs_const_vs_var.png)
 
 ```dart
 void main() {
@@ -216,6 +216,6 @@ void main() {
 
 ### dynamic - var - final - const
 
-![dynamic_var_final_const](../assets/dynamic_var_final_const.png)
+![dynamic_var_final_const](assets/dynamic_var_final_const.png)
 
 ## 10. Sound Null safety
